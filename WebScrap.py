@@ -19,11 +19,11 @@ driver = webdriver.Firefox(executable_path=r'C:\Users\gazet\AppData\Local\Progra
 driver.get(url)
 time.sleep(10)
 element = driver.find_element_by_xpath("//div[@class='game_purchase_price price']")
-html_content = element.get_attribute('outerHTML')
+html_content = element.get_attribute('innerHTML')
+
+print(html_content)
 
 #Parseando o conteúdo HTML - BS
-soup = BeautifulSoup(html_content, 'html.parser')
-div = soup.find(name=)
 
 
 
