@@ -117,3 +117,194 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1628116722722	geckodriver	INFO	Listening on 127.0.0.1:57822
+1628116725747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileZEiPUi"
+1628116726494	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileZEiPUi\\search.json.mozlz4", (void 0)))
+1628116728668	Marionette	INFO	Listening on port 57830
+1628116728927	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18928, MediaDecoderStateMachine #1] WARNING: 1f276d5d3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628116742044	Marionette	INFO	Stopped listening on port 57830
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628116805042	geckodriver	INFO	Listening on 127.0.0.1:57909
+1628116808072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileijLOSV"
+1628116808396	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileijLOSV\\search.json.mozlz4", (void 0)))
+1628116809913	Marionette	INFO	Listening on port 57917
+1628116810123	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4088, MediaDecoderStateMachine #1] WARNING: 1f3259179e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4088, MediaDecoderStateMachine #1] WARNING: 1f323d3f9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628116867667	Marionette	INFO	Stopped listening on port 57917
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628182340693	geckodriver	INFO	Listening on 127.0.0.1:55228
+1628182343695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofilek49h3Q"
+1628182344420	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofilek49h3Q\\search.json.mozlz4", (void 0)))
+1628182346372	Marionette	INFO	Listening on port 55236
+1628182346865	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20036, MediaDecoderStateMachine #1] WARNING: 238e715a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628182360222	Marionette	INFO	Stopped listening on port 55236
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628182485005	geckodriver	INFO	Listening on 127.0.0.1:57323
+1628182488034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofilepLlKTM"
+1628182488364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofilepLlKTM\\search.json.mozlz4", (void 0)))
+1628182489841	Marionette	INFO	Listening on port 57375
+1628182490075	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5988, MediaDecoderStateMachine #1] WARNING: 1446da103c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5988, MediaDecoderStateMachine #1] WARNING: 1446ff7e4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628182527388	Marionette	INFO	Stopped listening on port 57375
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628182646521	geckodriver	INFO	Listening on 127.0.0.1:57313
+1628182649552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileIJPt2n"
+1628182649770	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileIJPt2n\\search.json.mozlz4", (void 0)))
+1628182651485	Marionette	INFO	Listening on port 63489
+1628182651609	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20816, MediaDecoderStateMachine #1] WARNING: 15fb47fcba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20816, MediaDecoderStateMachine #1] WARNING: 15fb3aaad60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628182813415	Marionette	INFO	Stopped listening on port 63489
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628182829070	geckodriver	INFO	Listening on 127.0.0.1:50583
+1628182832111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileRhE5aP"
+1628182832348	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileRhE5aP\\search.json.mozlz4", (void 0)))
+1628182834129	Marionette	INFO	Listening on port 57672
+1628182834172	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15364, MediaDecoderStateMachine #1] WARNING: 1b293330200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15364, MediaDecoderStateMachine #1] WARNING: 1b2978f29e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15364, MediaDecoderStateMachine #1] WARNING: 1b2989f72e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628182868385	Marionette	INFO	Stopped listening on port 57672
+1628182876707	geckodriver	INFO	Listening on 127.0.0.1:56436
+1628182879744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileFwX65A"
+1628182879964	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileFwX65A\\search.json.mozlz4", (void 0)))
+1628182881475	Marionette	INFO	Listening on port 51499
+1628182881793	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3176, MediaDecoderStateMachine #1] WARNING: 18caede4900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 3176, MediaDecoderStateMachine #1] WARNING: 18cada74120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628182892190	Marionette	INFO	Stopped listening on port 51499
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628182991569	geckodriver	INFO	Listening on 127.0.0.1:63716
+1628182994600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileZfwPz6"
+1628182994823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileZfwPz6\\search.json.mozlz4", (void 0)))
+1628182996502	Marionette	INFO	Listening on port 52143
+1628182996661	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 328, MediaDecoderStateMachine #1] WARNING: 118841eae40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 328, MediaDecoderStateMachine #1] WARNING: 1188065c900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 328, MediaDecoderStateMachine #1] WARNING: 11881175660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628183013358	Marionette	INFO	Stopped listening on port 52143
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628183164638	geckodriver	INFO	Listening on 127.0.0.1:51959
+1628183167660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileKYtmJX"
+1628183167875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileKYtmJX\\search.json.mozlz4", (void 0)))
+1628183169322	Marionette	INFO	Listening on port 53628
+1628183169718	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10424, MediaDecoderStateMachine #1] WARNING: 1d8f0c394a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 10424, MediaDecoderStateMachine #1] WARNING: 1d8f3dee4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 10424, MediaDecoderStateMachine #1] WARNING: 1d8f0c39120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628183186226	Marionette	INFO	Stopped listening on port 53628
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628183193714	geckodriver	INFO	Listening on 127.0.0.1:56813
+1628183196768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofilealsgNI"
+1628183197028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofilealsgNI\\search.json.mozlz4", (void 0)))
+1628183198732	Marionette	INFO	Listening on port 50788
+1628183198817	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19340, MediaDecoderStateMachine #1] WARNING: 16a245ab120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 19340, MediaDecoderStateMachine #1] WARNING: 16a28ae2820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 19340, MediaDecoderStateMachine #1] WARNING: 16a2433f120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628183218849	Marionette	INFO	Stopped listening on port 50788
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628183293134	geckodriver	INFO	Listening on 127.0.0.1:64137
+1628183296164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileJQiQXJ"
+1628183296403	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileJQiQXJ\\search.json.mozlz4", (void 0)))
+1628183298139	Marionette	INFO	Listening on port 52769
+1628183298210	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11940, MediaDecoderStateMachine #1] WARNING: 1d073f6ef20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 11940, MediaDecoderStateMachine #1] WARNING: 1d074771ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628183425733	Marionette	INFO	Stopped listening on port 52769
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628183578322	geckodriver	INFO	Listening on 127.0.0.1:63617
+1628183581348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofilegC8xrx"
+1628183581566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofilegC8xrx\\search.json.mozlz4", (void 0)))
+1628183583170	Marionette	INFO	Listening on port 50522
+1628183583405	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9164, MediaDecoderStateMachine #1] WARNING: 19ff9dc7ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 9164, MediaDecoderStateMachine #1] WARNING: 19ff9e71580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628183750174	Marionette	INFO	Stopped listening on port 50522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofilezQvm11\\search.json.mozlz4", (void 0)))
+1628183608723	Marionette	INFO	Listening on port 56559
+1628183608898	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21596, MediaDecoderStateMachine #1] WARNING: 209e92d5d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 21596, MediaDecoderStateMachine #1] WARNING: 209ee1c3580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628183622711	Marionette	INFO	Stopped listening on port 56559
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628183635330	geckodriver	INFO	Listening on 127.0.0.1:61277
+1628183638363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileGNOPEh"
+1628183638584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileGNOPEh\\search.json.mozlz4", (void 0)))
+1628183640097	Marionette	INFO	Listening on port 63883
+1628183640421	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22284, MediaDecoderStateMachine #1] WARNING: 1f88acce120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.microsoft.com/pt-br/p/outer-wilds/c596fkdkmqn7?activetab=pivot:overviewtab, line 86: Error: Script error for "react"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.microsoft.com/pt-br/p/outer-wilds/c596fkdkmqn7?activetab=pivot:overviewtab, line 86: Error: Script error for "react-dom"
+http://requirejs.org/docs/errors.html#scripterror
+[Child 22284, MediaDecoderStateMachine #1] WARNING: 1f88f88a4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628183750178	Marionette	INFO	Stopped listening on port 63881628183752657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileMWEkdy"
+1628183752888	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileMWEkdy\\search.json.mozlz4", (void 0)))
+1628183754509	Marionette	INFO	Listening on port 49158
+1628183754707	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20248, MediaDecoderStateMachine #1] WARNING: 233b9498d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628183768836	Marionette	INFO	Stopped listening on port 49158
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628183792497	geckodriver	INFO	Listening on 127.0.0.1:56190
+1628183795515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileHrmw38"
+1628183795729	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gazet\\AppData\\Local\\Temp\\rust_mozprofileHrmw38\\search.json.mozlz4", (void 0)))
+1628183797305	Marionette	INFO	Listening on port 60563
+1628183797548	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17328, MediaDecoderStateMachine #1] WARNING: 22b53f82ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://www.microsoft.com/pt-br/p/outer-wilds/c596fkdkmqn7?activetab=pivot:overviewtab, line 86: Error: Script error for "react", needed by: OneRF_DynamicModules
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.microsoft.com/pt-br/p/outer-wilds/c596fkdkmqn7?activetab=pivot:overviewtab, line 86: Error: Script error for "react-dom", needed by: OneRF_DynamicModules
+http://requirejs.org/docs/errors.html#scripterror
+[Child 17328, MediaDecoderStateMachine #1] WARNING: 22b51119ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1628183815243	Marionette	INFO	Stopped listening on port 60563
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
